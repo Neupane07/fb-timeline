@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fb-timeline/static/css/main.a288feae.chunk.css",
+    "main.js": "/fb-timeline/static/js/main.89422e6c.chunk.js",
+    "main.js.map": "/fb-timeline/static/js/main.89422e6c.chunk.js.map",
+    "runtime-main.js": "/fb-timeline/static/js/runtime-main.bd00c312.js",
+    "runtime-main.js.map": "/fb-timeline/static/js/runtime-main.bd00c312.js.map",
+    "static/css/2.818011ed.chunk.css": "/fb-timeline/static/css/2.818011ed.chunk.css",
+    "static/js/2.b51ff4d2.chunk.js": "/fb-timeline/static/js/2.b51ff4d2.chunk.js",
+    "static/js/2.b51ff4d2.chunk.js.map": "/fb-timeline/static/js/2.b51ff4d2.chunk.js.map",
+    "index.html": "/fb-timeline/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/fb-timeline/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.a288feae.chunk.css.map": "/fb-timeline/static/css/main.a288feae.chunk.css.map",
+    "static/js/2.b51ff4d2.chunk.js.LICENSE.txt": "/fb-timeline/static/js/2.b51ff4d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd00c312.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.b51ff4d2.chunk.js",
+    "static/css/main.a288feae.chunk.css",
+    "static/js/main.89422e6c.chunk.js"
+  ]
+}
